@@ -1,6 +1,6 @@
 package org.example;
 
-import static org.example.AdditionalClass.reverseOnlyLetters;
+import static org.example.StringUtil.reverseOnlyLetters;
 
 public class Main {
     public static void main(String[] args) {
